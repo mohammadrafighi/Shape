@@ -1,0 +1,13 @@
+C:\Users\user\Source\Repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.exe
+C:\Users\user\Source\Repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.deps.json
+C:\Users\user\Source\Repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.json
+C:\Users\user\Source\Repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.dll
+C:\Users\user\Source\Repos\Shape\Shape\bin\Debug\netcoreapp3.1\Shape.pdb
+C:\Users\user\Source\Repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.dll
+C:\Users\user\Source\Repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.pdb
+C:\Users\user\Source\Repos\Shape\Shape\obj\Debug\netcoreapp3.1\Shape.genruntimeconfig.cache
